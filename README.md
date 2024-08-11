@@ -37,8 +37,10 @@ Full page link of the Interactive Power BI Dashboard can be found here - [US Air
    -  Out of 14 Airlines, Hawaiian Arlines had the highest On-Time percentage (75.6%) of their total flights, followed by Alaska Airline (75.2%), although take note that their combined total of flights are only 30k
    -  While in 14 Airlines with the minimum flight of at least 100k, Atlantic Southeast (196k) Airlines had the highest On-Time percentage.
    -  United Airlines had the highest rate of Delayed flight with 53.5%
-- Total Sales
-- Total Product Sold
-- Total Budget
-- Sales Budget Difference
-- Top Customer and Products
+- Month of February (156k) had the lowest number of flights while July (190k) had the highest
+- September (51.8k) had the lowest delayed flight while June (88.5k) had the highest
+- September (676) had the lowest cancelled flight while February (6k) had the highest
+- Weather (57.3%) was the top reaons of cancellation of flight with total of 16k flights cancelled, followed by Airline/Carrier problem - 8k (28.3%) and National Air System - 4k (14.39%)
+- Monday (6.8k) had the most number of cancelled flight
+
+##
