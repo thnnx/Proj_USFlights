@@ -2,7 +2,7 @@
 
 Analyzing the US Airline flights total number of scheduled flight, total delayed (departure and arrival), total cancelled and what are the causes of delay or cancellation reasons for the past 12 months on different city airports.
 ##
-Full page link of the Interactive Power BI Dashboard can be found here - [US Airline Flights](https://app.powerbi.com/reportEmbed?reportId=c5f2614e-092b-44a0-8ef4-691dc27a65ae&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
+Full page link of the Interactive Power BI Dashboard can be found here - [US Airline Flights](https://app.powerbi.com/view?r=eyJrIjoiMTc3NGY1MWQtNjEwNi00ODAwLWJjMDctMGYyNjdhMzQxNjc1IiwidCI6ImE0ZTc4YjgxLTg3NGEtNDgzMi04OGYwLTEyYmQxNjMxMDhmNCIsImMiOjEwfQ%3D%3D)
 
 ![USFlights](USFlights_SS.PNG)
 
